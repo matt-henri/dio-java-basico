@@ -9,5 +9,15 @@ public class operadores {
         numero = numero * -1;
 
         System.out.println(numero);
+
+        // repeticao
+
+        numero = numero + 1;
+
+        System.out.println(numero);
+
+        numero++;
+
+        System.out.println(numero);
     }
 }
